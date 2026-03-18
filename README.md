@@ -19,7 +19,7 @@ A simple and elegant weather application that provides real-time weather informa
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ughsurbhi/Weather-App.git
+   git clone https://github.com/ughsurbhi/SkyCast.git
 2. Open index.html in your browser.
 3. Enter a city name in the search bar and hit "Search" to get the current weather.
 
